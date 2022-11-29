@@ -1,0 +1,35 @@
+.container{
+	display:flex;
+	position: relative;
+	justify-content:center;
+	align-items: space-between;
+	background-color: purple;
+	padding:10px;
+	align-content:center; 
+}
+body{
+	background-color: purple;
+}
+.card-header{
+	background-color: black;
+	color: white;
+
+}
+#flag,#flag2,#flag3{
+
+	height: 160px;
+	align-content: center;
+
+}
+.list-group-item{
+	background-color: pink;
+	border:1px solid black;
+}
+#click1{
+	background-color:green; 
+}
+h1{
+	text-align:center;
+	color: white;
+	background-color: blue;
+}
